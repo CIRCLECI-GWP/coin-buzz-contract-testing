@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/coinbuzz-contract-testing.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/coinbuzz-contract-testing)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/coin-buzz-contract-testing.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/coin-buzz-contract-testing)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
