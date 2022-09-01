@@ -1,0 +1,16 @@
+{
+    "bpi": {
+        "USD": {
+            "code": "USD",
+            "rate": "57,598.3027",
+            "description": "United States Dollar",
+            "rate_float": 57598.3027
+        },
+        "CNY": {
+            "code": "CNY",
+            "rate": "40,202.5000",
+            "description": "Chinese Yuan",
+            "rate_float": 40202.5
+        }
+    }
+}
