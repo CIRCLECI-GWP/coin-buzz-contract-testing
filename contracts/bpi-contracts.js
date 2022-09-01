@@ -2,7 +2,7 @@ const Joi = require('joi');
 
 const currencyObject = Joi.object({
     code: Joi.string().required(),
-    symbol: Joi.string().required(),
+    symbol: Joi.string().optional(),
     rate: Joi.string().required(),
     description: Joi.string().required(),
     rate_float: Joi.number().required()
